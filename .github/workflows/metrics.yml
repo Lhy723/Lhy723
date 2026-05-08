@@ -11,6 +11,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+            name: production
     steps:
       # 基础信息（顺带了几个小插件）
       - name: base
@@ -20,7 +22,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: sun0225SUN
+          user: Lhy723
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
