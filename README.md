@@ -24,7 +24,13 @@ I'm a developer focusing on **Full-Stack Development** & **AI / LLM Application*
     <td><img src="/github-metrics/followup.indepth.svg" alt="Issues and pull requests" /></td>
   </tr>
   <tr>
-    <td><img src="/github-metrics/isocalendar.fullyear.svg" alt="Full-year contribution calendar" /></td>
-    <td><img src="/github-metrics/stargazers.chartist.svg" alt="Stargazers evolution" /></td>
+    <td colspan="2" align="center">
+      <img src="/github-metrics/isocalendar.fullyear.svg" alt="Full-year contribution calendar" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="/github-metrics/stargazers.chartist.svg" alt="Stargazers evolution" />
+    </td>
   </tr>
 </table>
