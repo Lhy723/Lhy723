@@ -20,23 +20,11 @@ I'm a developer focusing on **Full-Stack Development** & **AI / LLM Application*
 
 <table>
   <tr>
-    <td><img src="/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="/github-metrics/languages.indepth.svg" alt="Most used languages" /></td>
+    <td><img src="/github-metrics/followup.indepth.svg" alt="Issues and pull requests" /></td>
   </tr>
   <tr>
-    <td><img src="/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="/github-metrics/base.svg" alt="base" /></td>
-    <td><img src="/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="/github-metrics/isocalendar.fullyear.svg" alt="Full-year contribution calendar" /></td>
+    <td><img src="/github-metrics/stargazers.chartist.svg" alt="Stargazers evolution" /></td>
   </tr>
 </table>
