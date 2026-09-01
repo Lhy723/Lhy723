@@ -50,6 +50,7 @@ jobs:
           filename: github-metrics/stargazers.chartist.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_display: large
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
 
